@@ -1,0 +1,74 @@
+[
+{
+    "categoria": "videogames",
+    "imagem": "/produtos_img/nintendo.jpg",
+    "descricao": "Nintendo Switch Azul e Vermelho",
+    "preco": 3400.00
+},
+{
+    "categoria": "videogames",
+    "imagem": "/produtos_img/ps4.jpg",
+    "descricao": "PlayStation 4 1TB + Controle",
+    "preco": 2990.00
+},
+{
+    "categoria": "videogames",
+    "imagem": "/produtos_img/xboxone.jpg",
+    "descricao": "Xbox One 1TB + Controle",
+    "preco": 2499.00
+},
+{
+    "categoria": "controles",
+    "imagem": "/produtos_img/controleps4.jpg",
+    "descricao": "Controle PlayStation 4 - Preto - Sem fio",
+    "preco": 219.00
+},
+{
+    "categoria": "controles",
+    "imagem": "/produtos_img/controlexboxone.jpg",
+    "descricao": "Controle Xbox One - Preto - Sem fio",
+    "preco": 400.00
+},
+{
+    "categoria": "jogos",
+    "imagem": "/produtos_img/jogops4.jpg",
+    "descricao": "Jogo Injustice 2 - PlayStation 4",
+    "preco": 89.00
+},
+{
+    "categoria": "jogos",
+    "imagem": "/produtos_img/jogoxboxone.jpg",
+    "descricao": "Jogo GTA V - Xbox One",
+    "preco": 149.00
+},
+{
+    "categoria": "jogos",
+    "imagem": "/produtos_img/jogonintendo.jpg",
+    "descricao": "Jogo Mario Kart - Nintendo Switch",
+    "preco": 360.00
+},
+{
+    "categoria": "fone",
+    "imagem": "/produtos_img/headset.jpg",
+    "descricao": "Headset Gamer Warrior Straton",
+    "preco": 269.00
+},
+{
+    "categoria": "teclado",
+    "imagem": "/produtos_img/teclado.jpg",
+    "descricao": "Teclado Mecânico Redragon",
+    "preco": 250.00
+},
+{
+    "categoria": "mouse",
+    "imagem": "/produtos_img/mouse.jpg",
+    "descricao": "Mouse Gamer Logitech",
+    "preco": 190.00
+},
+{
+    "categoria": "monitor",
+    "imagem": "/produtos_img/monitor.jpg",
+    "descricao": "Monitor Gamer Ultrawide Curvo 49 Asus",
+    "preco": 9800.00
+}
+]
